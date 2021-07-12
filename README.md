@@ -13,17 +13,7 @@
 
 
 
-| [Mulesoft applications](#philosophy) :thought_balloon: | [Processes](#processes) :speech_balloon: | [Source Code Management](#source-code-management) :octocat: | [Build Automation](#build-automation) :arrows_counterclockwise: | [Continuous Integration](#continuous-integration) :arrows_counterclockwise: | [Continuous Delivery](#continuous-delivery) :arrows_counterclockwise: |
-|---------------------------------------------|------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------|
-|                                             |                                          |                                                             |                                                                 |                                                                            |                                                                       |
-
-| [Infrastructure As Code](#infrastructure-as-code) :loop: | [Monitoring](#monitoring) :bar_chart: | [Logging](#logging) :page_facing_up: | [IAAS Providers](#iaas-providers) :cloud: | [PAAS Providers](#paas-providers) :cloud: | [Containerisation](#containerisation) :ship: |
-|---------------------------------------------------------|---------------------------------------|--------------------------------------|-------------------------------------------|-------------------------------------------|----------------------------------------------|
-|                                                         |                                       |                                      |                                           |                                           |                                              |
-
-| [MicroServices](#microservices) :microscope: | [Anti Patterns](#anti-patterns) :no_entry_sign: | [Security](#security) :lock: | [Languages](#languages) :pencil: | [Books](#books) :books: | [Slide Presentations](#slide-presentations) | [Videos](#videos) :tv: |
-|----------------------------------------------|-------------------------------------------------|------------------------------|----------------------------------|---------------------------------------------|--------------------------|-----------------------|
-|                                              |                                                 |                                  |                         |                                              |                                                 |                                  |
+| [Mulesoft Applications](#philosophy) | [API Integration](#processes) | [Anypoint Platform](#source-code-management) | [Anypoint Studio](#build-automation) | [Advance Rest Client](#continuous-integration)| [Postman](#continuous-delivery) |
 
 
 * [Conferences and Meet-ups](#conferences) :video_camera:

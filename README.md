@@ -4,23 +4,19 @@
 
 =======================================================================================================================
 
-### This repo documents my learning experience with Mulesoft technology and its tools 
+### This repo documents my learning experience with Mulesoft technology and its tools. Each chapter will present important concepts and knowledge along with commonly quizzed questions.
 
 
 
-| [Mulesoft Applications](#philosophy) | [API Integration](#processes) | [Anypoint Platform](#source-code-management) | [Anypoint Studio](#build-automation) | [Advance Rest Client](#continuous-integration)| [Postman](#continuous-delivery) |
+| [Mulesoft Applications](#Summary of Tools) | [API Integration](#Summary of Tools) | [Anypoint Platform](#Summary of Tools) | [Anypoint Studio](#Summary of Tools) | [Advance Rest Client](#Summary of Tools)| [Postman](#Summary of Tools)|
 |---------------------------------------------|------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------|
 |                                             |                                          |                                                             |                                                                 |                                                                            |                                                                       |
 
 
-* [Conferences and Meet-ups](#conferences) :video_camera:
+## Summary of Tools
 
-* [Contributing](#contributing)
-* [License](#license)
-
-## Philosophy
-
-- [ ] [Five years, building a culture, and handing it off](http://laughingmeme.org/2015/08/31/five-years-building-a-culture-and-handing-it-off/)
+- [ ] #Mulesoft: Integration Platform that helps businesses connect data, applications and devices across on-
+premises and cloud computing environments.
 - [ ] [3 characteristics of an effective cloud developer](http://www.thoughtsoncloud.com/2015/10/3-characteristics-of-an-effective-cloud-developer/)
 - [ ] [The Must Know Checklist For DevOps & Site Reliability Engineers](https://medium.com/faun/the-must-know-checklist-for-devops-system-reliability-engineers-f74c1cbf259d)
 

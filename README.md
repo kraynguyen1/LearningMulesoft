@@ -7,7 +7,7 @@
 
 ... because learning DevOps is awesome
 
-![learning](https://cloud.githubusercontent.com/assets/8342133/12172223/a0db04b8-b575-11e5-9dfd-51fbf7c58de8.gif)
+![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/MuleSoft_training_logo.png)
 
 =======================================================================================================================
 

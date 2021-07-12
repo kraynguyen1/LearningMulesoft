@@ -22,7 +22,7 @@ premises and cloud computing environments.
 - [ ] **Postman**: The Collaboration Platform for API Development
 
 ## Learning folders
-- [ ] Week1: Introduction to Anypoint Platform and API-led connectivity
-- [ ] Week2: Design, build, deploy, and manage APIs
-- [ ] Week3: Access and Modify Mule events & Structuring Mule applications
-- [ ] Week4: Consuming web services, controlling event flow, and handling errors
+- [ ] [Week1: Introduction to Anypoint Platform and API-led connectivity](https://github.com/kraynguyen1/LearningMulesoft/tree/main/Week1)
+- [ ] [Week2: Design, build, deploy, and manage APIs](https://github.com/kraynguyen1/LearningMulesoft/tree/main/Week2)
+- [ ] [Week3: Access and Modify Mule events & Structuring Mule applications] (https://github.com/kraynguyen1/LearningMulesoft/tree/main/Week3)
+- [ ] [Week4: Consuming web services, controlling event flow, and handling errors](https://github.com/kraynguyen1/LearningMulesoft/tree/main/Week4)

@@ -14,6 +14,8 @@
 
 
 | [Mulesoft Applications](#philosophy) | [API Integration](#processes) | [Anypoint Platform](#source-code-management) | [Anypoint Studio](#build-automation) | [Advance Rest Client](#continuous-integration)| [Postman](#continuous-delivery) |
+|---------------------------------------------|------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------|
+|                                             |                                          |                                                             |                                                                 |                                                                            |                                                                       |
 
 
 * [Conferences and Meet-ups](#conferences) :video_camera:

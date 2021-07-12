@@ -4,8 +4,7 @@
 
 =======================================================================================================================
 
-### This repo documents my learning experience with Mulesoft technology and its tools. Each chapter will present important concepts and knowledge along with commonly quizzed questions.
-
+### This repo documents my learning experience with Mulesoft technology and its tools. The goal of this document is to reinforce important concepts and knowledge along with commonly quizzed questions. Additional hands-on practice with these concepts is very necessary to the learning experience
 
 
 | [Mulesoft Applications](#Summary-of-Tools) | [Anypoint Platform](#Summary-of-Tools) | [Anypoint Studio](#Summary-of-Tools) | [Advance Rest Client](#Summary-of-Tools)| [Postman](#Summary-of-Tools)|

@@ -8,7 +8,7 @@
 
 
 
-| [Mulesoft Applications](#Summary of Tools) | [Anypoint Platform](#Summary of Tools) | [Anypoint Studio](#Summary of Tools) | [Advance Rest Client](#Summary of Tools)| [Postman](#Summary of Tools)|
+| [Mulesoft Applications](#Summary of Tools) | [Anypoint Platform](#Summary of Tools) | [Anypoint Studio](#Summary of Tools) | [Advance Rest Client](#Summary-of-Tools)| [Postman](#Summary of Tools)|
 |---------------------------------------------|------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------------------------|                                                           
 
 

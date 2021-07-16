@@ -9,14 +9,14 @@
 
 
 ### Quizzes
-1. **Q**: What Mulesoft API_led connectivity layer is intended to expose part of a backend database without business logic?
-- [ ] **A:** System
-2. **Q**: What is the C4E's role in the new IT operating model 
-- [ ] **A:** Creates and manages discoverable assets to be consumed by line of business developers
-3. **Q**: What is a core characteristic of the modern API?
-- [ ] **A:** API is designed first using API specification for rapid feedback
-4. **Q**: What HTTP method in a RESTful web service is typically used to completely replace an existing resource?
-- [ ] **A:** PUT
+1. **Q**: What is the main purpose of Flow Designer in Design Center?
+- [ ] **A:** Design and develop fully functional Mule applications in a hosted development environment
+2. **Q**: Where does a deployed flow designer application run in Anypoint plaform
+- [ ] **A:** Cloudhub workers
+3. **Q**: What Mulesoft product enables publishing, sharing, and searching of APIs?
+- [ ] **A:** Anypoint Exchange
+4. **Q**: A web client submits a GET request to a Mule 4 application to the endpoint /customers?id=48493. Where is the id stored in the Mule event by the HTTP lister?
+- [ ] **A:** Attributes
 
 
 

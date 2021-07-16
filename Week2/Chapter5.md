@@ -1,4 +1,5 @@
-### Concepts
+### Deploying and Managing APIs
+## Concepts
 - [ ] **Cloudhub**: PaaS component of Anypoint platform which hosted Mule runtime(workers) on AWS
 - [ ] **API proxy**: Application that controls access to a web service, restricting access and usage through the use of an API gateway
 - [ ] **API Gateway runtime:** controls access to APIs by enforcing policies
@@ -10,7 +11,7 @@
   * Review API analytics 
 ![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week2/Screenshot%202021-07-16%20133549.png)
 
-### Quizzes
+## Quizzes
 1. **Q**:
 ![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week2/Screenshot%202021-07-16%20145228.png)
 - [ ] **A:** Request access to the API in anypoint exchange

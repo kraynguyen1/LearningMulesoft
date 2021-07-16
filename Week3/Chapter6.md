@@ -15,9 +15,18 @@
 - [ ] **A:** Atrributes are replaced with new attributes from the HTTP Request response(which might be NULL)
 2. **Q**: A Set Variable component saves the current payload to a variable with the name images. What is the DataWeave expression to access the images variable?
 - [ ] **A:** #[vars.images]
-3. **Q**: 
+3. 
 ![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week3/q3mule.png)
 - [ ] **A:** At most one
-4. **Q**: 
-![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week3/q6Mule.png)
+4. 
+![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week3/Q6mule.png)
+- [ ] **A:** The Mule runtime's embedded API Gateway
+5.
+![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week3/Q6mule.png)
+- [ ] **A:** The Mule runtime's embedded API Gateway
+6. **Q**: A flow contains an HTTP listener as the event source. What is the DataWeave expression to log the Content-Type header using a Logger component
+- [ ] **A:** #["Content-Type: " ++ attributes.headers.'content-type']
+7. ![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week3/Q7mule.png)
+- [ ] **A:** The Mule runtime's embedded API Gateway
+8. ![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week3/q8Mule.png)
 - [ ] **A:** The Mule runtime's embedded API Gateway

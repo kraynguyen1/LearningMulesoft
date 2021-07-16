@@ -7,7 +7,7 @@
 - [ ] **Flow reference:** Used to pass messages to other flow. Think of it as calling another function
 - [ ] **API sync:** Synchronize changes to API specs between Anypoint Studio and Platform
 
-![Anatomy of a flow]https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week2/Screenshot%202021-07-16%20131253.png)
+![Anatomy of a flow] https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week2/Screenshot%202021-07-16%20131253.png)
 
 ### Quizzes
 1. **Q**: An API has been created in Design Center. What is the next step to make the API discoverable

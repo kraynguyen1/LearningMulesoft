@@ -16,7 +16,7 @@
 - [ ] **A:** Cloudhub workers
 3. **Q**: What Mulesoft product enables publishing, sharing, and searching of APIs?
 - [ ] **A:** Anypoint Exchange
-4. **Q**: A web client submits a GET request to a Mule 4 application to the endpoint /customers?id=48493. Where is the id stored in the Mule event by the HTTP lister?
+4. **Q**: A web client submits a GET request to a Mule 4 application to the endpoint /customers?id=48493. Where is the id stored in the Mule event by the HTTP listener?
 - [ ] **A:** Attributes
 
 

@@ -4,6 +4,7 @@
 * error.description (String)
 * error.errorType (Object)
 * Error type is identified by a namespace(Eg. HTTP) and an identifier (EG: UNAUTHORIZED) 
+![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week4/Errortype.png)
 - [ ] An application can have system or messaging errors:
 * System errors are thrown at the system level and involve no event:
   * Occur during applciation start-up or when a connection to an external system fails

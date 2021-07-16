@@ -18,5 +18,6 @@
 3. **Q**: 
 ![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week3/q3mule.png)
 - [ ] **A:** At most one
-5. **Q**: What does the Mule runtime use to enforce policies and limit access to APIs?
+4. **Q**: 
+![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week3/q6Mule.png)
 - [ ] **A:** The Mule runtime's embedded API Gateway

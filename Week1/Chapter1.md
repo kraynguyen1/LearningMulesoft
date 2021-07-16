@@ -13,7 +13,7 @@
 - [ ] **A:** Creates and manages discoverable assets to be consumed by line of business developers
 - [ ] **Q**: What is a core characteristic of the modern API?
 - [ ] **A:** API is designed first using API specification for rapid feedback
-- [ ] **Q**: What HTTP method in a RESTful web service is typically used to completely replace an existing resource
+- [ ] **Q**: What HTTP method in a RESTful web service is typically used to completely replace an existing resource?
 - [ ] **A:** PUT
 
 

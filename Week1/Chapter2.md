@@ -1,3 +1,4 @@
+### Chapter 2: Introducing Anypoint Platform
 ### Concepts
 - [ ] **Anypoint platform**: a unified integration platform that creats application network of apps, data and devices with API-led connectivity
 - [ ] **Anypoint exchange**: central repository for assets so they can be discovered and reused

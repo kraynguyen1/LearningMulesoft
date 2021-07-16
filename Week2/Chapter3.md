@@ -6,7 +6,7 @@
 - [ ] **API portals**
   * automatically created for the APIs with API documentation, API console, and API endpoint
   * Sharable with both internal and external users
-![]()
+![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week2/Screenshot%202021-07-16%20131253.png)
 
 ### Quizzes
 1. **Q**: What Mulesoft API_led connectivity layer is intended to expose part of a backend database without business logic?

@@ -13,12 +13,13 @@
 1. **Q**: An API has been created in Design Center. What is the next step to make the API discoverable
 - [ ] **A:** Publish the API to Anypoint Exchange
 2. **Q**: Refer to the image. What is the correct URL to submit a GET request to /patients
+![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week2/Screenshot%202021-07-16%20131915.png)
+- [ ] **A:** http://dev.acme.com/api/patients?year=2017
+4. **Q**: A RAMl example fragment named BankAccountsExample.raml is placed in the examples folder in an API spec project. What is the correct syntax to reference the fragment?
+- [ ] **A:** examples: !include examples/BankAccountsExample.raml
+5. **Q**: 
 ![]()
-- [ ] **A:** Creates and manages discoverable assets to be consumed by line of business developers
-4. **Q**: What is a core characteristic of the modern API?
-- [ ] **A:** API is designed first using API specification for rapid feedback
-5. **Q**: What HTTP method in a RESTful web service is typically used to completely replace an existing resource?
-- [ ] **A:** PUT
+- [ ] **A:** Indent the get method under the {flight_id} resource
 
 
 

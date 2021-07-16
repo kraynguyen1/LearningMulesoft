@@ -18,7 +18,7 @@
 4. **Q**: A RAMl example fragment named BankAccountsExample.raml is placed in the examples folder in an API spec project. What is the correct syntax to reference the fragment?
 - [ ] **A:** examples: !include examples/BankAccountsExample.raml
 5. **Q**: 
-![]()
+![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week2/Screenshot%202021-07-16%20132326.png)
 - [ ] **A:** Indent the get method under the {flight_id} resource
 
 

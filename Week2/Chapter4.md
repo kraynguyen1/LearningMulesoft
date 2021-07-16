@@ -10,16 +10,14 @@
 ![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week2/Screenshot%202021-07-16%20133549.png)
 
 ### Quizzes
-1. **Q**: An API has been created in Design Center. What is the next step to make the API discoverable
-- [ ] **A:** Publish the API to Anypoint Exchange
-2. **Q**: Refer to the image. What is the correct URL to submit a GET request to /patients
-![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week2/Screenshot%202021-07-16%20131915.png)
-- [ ] **A:** http://dev.acme.com/api/patients?year=2017
-4. **Q**: A RAMl example fragment named BankAccountsExample.raml is placed in the examples folder in an API spec project. What is the correct syntax to reference the fragment?
-- [ ] **A:** examples: !include examples/BankAccountsExample.raml
-5. **Q**: 
-![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week2/Screenshot%202021-07-16%20132326.png)
-- [ ] **A:** Indent the get method under the {flight_id} resource
+1. **Q**: How does APIkit determine the number of flows to generate from a RAML spec
+- [ ] **A:** Creates a sepatate flow for each HTTP method
+2. **Q**: A database connector is configured to select rows from a MySQL database. What is the format of the array of results returned from the database query?
+- [ ] **A:** Java
+4. **Q**: What is the minimum required configuration in a flow for a Mule application to compile?
+- [ ] **A:** An event processor
+5. **Q**: What is the purpose of the api: router element in APIkit?
+- [ ] **A:** Validates requests against RAML API specs and routes them to API implementations
 
 
 

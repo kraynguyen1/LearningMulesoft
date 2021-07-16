@@ -11,9 +11,10 @@
 ![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week2/Screenshot%202021-07-16%20133549.png)
 
 ### Quizzes
-1. **Q**: How does APIkit determine the number of flows to generate from a RAML spec
+1. **Q**:
+![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week2/Screenshot%202021-07-16%20145228.png)
 - [ ] **A:** Creates a sepatate flow for each HTTP method
-2. **Q**: A database connector is configured to select rows from a MySQL database. What is the format of the array of results returned from the database query?
+3. **Q**: A database connector is configured to select rows from a MySQL database. What is the format of the array of results returned from the database query?
 - [ ] **A:** Java
 4. **Q**: What is the minimum required configuration in a flow for a Mule application to compile?
 - [ ] **A:** An event processor

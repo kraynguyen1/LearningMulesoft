@@ -17,13 +17,13 @@
 - [ ] **A:** #[vars.images]
 3. 
 ![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week3/q3mule.png)
-- [ ] **A:** At most one
+- [ ] **A:** #[attributes.uriParams.state]
 4. 
 ![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week3/Q6mule.png)
-- [ ] **A:** The Mule runtime's embedded API Gateway
+- [ ] **A:** #[payload[1].city]
 5. **Q**: A flow contains an HTTP listener as the event source. What is the DataWeave expression to log the Content-Type header using a Logger component
 - [ ] **A:** #["Content-Type: " ++ attributes.headers.'content-type']
 6. ![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week3/Q7mule.png)
-- [ ] **A:** The Mule runtime's embedded API Gateway
+- [ ] **A:** The variable is accessible. All the attributes passed to childFlow are removed or replaced
 7. ![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week3/q8Mule.png)
-- [ ] **A:** The Mule runtime's embedded API Gateway
+- [ ] **A:** The variable is NOT accessible in the server

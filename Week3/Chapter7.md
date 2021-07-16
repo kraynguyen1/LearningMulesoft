@@ -5,7 +5,7 @@
 - [ ] Separate application functionality into multiple configuration files is easier for development and maintenance (Eg. Encapsulate global elements into their own config file)
 - [ ] Share resources between applications by creating a shared domain
 - [ ] Define application Properties in a YAML file and reference them as ${"property here"}
-* 
+* ![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week3/Screenshot%202021-07-16%20153321.png)
 - [ ] Application metadata is stored in application-types.xml
 - [ ] Create applications composed of multiple flows and subflows for better readability, maintenance, and reusability
 - [ ] Use Flow reference to call flows synchronously

@@ -1,4 +1,5 @@
-### Concepts
+### Chapter 3: Designing APIs
+## Concepts
 - [ ] **RAML**: standard-based API description language spec as a product of a design 
 - [ ] **API Designer**: Write API specifications with RAML
 - [ ] **API console** display auto-generated documentation from a RAML file
@@ -9,7 +10,7 @@
 
 ![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week2/Screenshot%202021-07-16%20131253.png)
 
-### Quizzes
+## Quizzes
 1. **Q**: An API has been created in Design Center. What is the next step to make the API discoverable
 - [ ] **A:** Publish the API to Anypoint Exchange
 2. **Q**: Refer to the image. What is the correct URL to submit a GET request to /patients

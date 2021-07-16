@@ -1,4 +1,4 @@
-### Chapter 10: Handlinng errors
+### Chapter 10: Handling errors
 ## Concepts
 - [ ] An error object has 2 properties:
 * error.description (String)

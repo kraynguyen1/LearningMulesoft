@@ -5,7 +5,7 @@
 - [ ] **Mule runtimes:** can be Mulesoft-hosted in the cloud (CLoudhub) or customer-hosted in the cloud (AWS)
 - [ ] **DataWeave 2.0:** Expression language for Mule to access, query, and transform Mule event data 
 
-![](Screenshot 2021-07-16 125650.png)
+![Mule event](Screenshot 2021-07-16 125650.png)
 
 
 ### Quizzes

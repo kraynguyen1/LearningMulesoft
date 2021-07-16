@@ -7,8 +7,14 @@
 - [ ] **RESTful web services:** use standard HTTP protocol and are easy to use
 
 ### Quizzes
-- [ ] **Q**: What Mulesoft API_led connectivity layer is intended to expose part of a backend database without business logic
+- [ ] **Q**: What Mulesoft API_led connectivity layer is intended to expose part of a backend database without business logic?
 - [ ] **A:** System
+- [ ] **Q**: What is the C4E's role in the new IT operating model 
+- [ ] **A:** Creates and manages discoverable assets to be consumed by line of business developers
+- [ ] **Q**: What is a core characteristic of the modern API?
+- [ ] **A:** API is designed first using API specification for rapid feedback
+- [ ] **Q**: What HTTP method in a RESTful web service is typically used to completely replace an existing resource
+- [ ] **A:** PUT
 
 
 

@@ -3,11 +3,7 @@
 - [ ] To consume a web service, first look for a connector in Anypoint Exchange
 - [ ] Use the HTTP Request to consume any Rest web service
 - [ ] Use the Web service consumer connector to consume any SOAP web service
-- [ ] Use the Transform Message component to pass arguments to SOAP web services 
-- [ ] **Flow reference:** Used to pass messages to other flow. Think of it as calling another function
-- [ ] **API sync:** Synchronize changes to API specs between Anypoint Studio and Platform
-
-![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week2/Screenshot%202021-07-16%20133549.png)
+- [ ] Use the Transform Message component to pass arguments to SOAP web services
 
 ## Quizzes
 1. **Q**: What file types require to configure a Web Service Consumer to consume a SOAP web service

@@ -18,6 +18,7 @@
   * **Application level:** define an error handler outside any flow and then configuring the application to use it as the default error handler.
   * **Flow level:** add error scopes to the error handling section of a flow
   * **Processor level:** encapsulating an event processor in a Try scope that has its own error handling section
+  * ![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week4/errorlevel.png)
 * Each error handler can have one or more error scopers
 * An error is handled by the first error scope with a matching condition
   * **On error propagate:** rethrows the error up the execution chain (Eg. child flow to parent flow)

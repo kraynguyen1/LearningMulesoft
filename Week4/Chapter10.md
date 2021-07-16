@@ -19,14 +19,15 @@
   * **Flow level:** add error scopes to the error handling section of a flow
   * **Processor level:** encapsulating an event processor in a Try scope that has its own error handling section
   * ![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week4/errorlevel.png)
-* Each error handler can have one or more error scopers
+* Each error handler can have one or more error scopes
 * An error is handled by the first error scope with a matching condition
   * **On error propagate:** rethrows the error up the execution chain (Eg. child flow to parent flow)
   * **On error continue:** handles the error and then continues the execution of the parent flow 
 * Error types for module operation can be mapped to custom error types
 * By default, interfaces created with APIkit have error handlers with multiple on error propagate scopes that handle APIkit errors. 
 ## Quizzes
-1. **Q**: How are multiple conditions used in a Choice router to route events
+1.
+![]
 - [ ] **A:** To find first true condition, then distribute the event to the one matched route
 2. **Q**: A Scatter-Gather processes 3 separate HTTP requests. Each request returns a Mule event with a JSON payload. What is the final output of the Scatter-Gather?
 - [ ] **A:** An object containing all three Mule event objects

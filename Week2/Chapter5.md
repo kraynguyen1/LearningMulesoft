@@ -13,13 +13,14 @@
 ### Quizzes
 1. **Q**:
 ![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week2/Screenshot%202021-07-16%20145228.png)
-- [ ] **A:** Creates a sepatate flow for each HTTP method
-3. **Q**: A database connector is configured to select rows from a MySQL database. What is the format of the array of results returned from the database query?
-- [ ] **A:** Java
-4. **Q**: What is the minimum required configuration in a flow for a Mule application to compile?
-- [ ] **A:** An event processor
-5. **Q**: What is the purpose of the api: router element in APIkit?
-- [ ] **A:** Validates requests against RAML API specs and routes them to API implementations
+- [ ] **A:** Request access to the API in anypoint exchange
+2. **Q**: What is the purpose of API autodiscovery?
+- [ ] **A:** Allows a deployed Mule application to connect with API manager to download policies and act as its own API proxy
+3. **Q**: How many Mule applications can run on a CloudHub worker?
+- [ ] **A:** At most one
+4. **Q**: What does the Mule runtime use to enforce policies and limit access to APIs?
+- [ ] **A:** The Mule runtime's embedded API Gateway
+
 
 
 

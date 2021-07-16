@@ -18,7 +18,8 @@
 - [ ] **A:** pom.xml
 3. **Q**: Why must a Mule applications's deployable archive package all its dependencies in order to be deployed to Cloudhub?
 - [ ] **A:** Cloudhub workers CANNOT download ALL possible project dependencies a project may contain
-4. ![]()
+4. ![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week3/Screenshot%202021-07-16%20154030.png)
+- [ ] **A:** The env propery is NOT set in the Runtime Manager in the Mule application's properties tab
 5. **Q**: What reserved property can be defined and used in a Mule application to allow an HTTPS Listener to be accessed by external web clients after the Mule application is deployed to CloudHub?
 - [ ] **A:** ${http.port}
 6. **Q**: A Mule application has 2 flows named parentFlow and childFlow. A variable is defined in parentFlow. What is the scope of the variable when the parentFlow calls childFlow using a Flow Reference:

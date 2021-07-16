@@ -10,24 +10,16 @@
 - [ ] Create applications composed of multiple flows and subflows for better readability, maintenance, and reusability
 - [ ] Use Flow reference to call flows synchronously
 - [ ] Use the VM connector to pass events between flows using asynchronous queues
-![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week3/Screenshot%202021-07-16%20150833.png)
-![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week3/Screenshot%202021-07-16%20150848.png)
 
 ## Quizzes:
-1. **Q**: What happens to the attributes of a Mule event in a flow after an outbound HTTP Request is made
-- [ ] **A:** Atrributes are replaced with new attributes from the HTTP Request response(which might be NULL)
-2. **Q**: A Set Variable component saves the current payload to a variable with the name images. What is the DataWeave expression to access the images variable?
-- [ ] **A:** #[vars.images]
-3. 
-![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week3/q3mule.png)
-- [ ] **A:** #[attributes.uriParams.state]
-4. 
-![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week3/Q6mule.png)
-- [ ] **A:** #[payload[1].city]
-5. **Q**: A flow contains an HTTP listener as the event source. What is the DataWeave expression to log the Content-Type header using a Logger component
-- [ ] **A:** #["Content-Type: " ++ attributes.headers.'content-type']
-6. ![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week3/Q7mule.png)
-- [ ] **A:** The variable is accessible. All the attributes passed to childFlow are removed or replaced
-7. ![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week3/q8Mule.png)
-- [ ] **A:** The variable is NOT accessible in the server
-
+1. **Q**: What can ONLY be done with VM connectors, and NOT with Flow References, in a single Mule application?
+- [ ] **A:** Allow a flow to pass events to another flow asynchronously
+2. **Q**: In what file does the Mule project keep track of all of its dependencies
+- [ ] **A:** pom.xml
+3. **Q**: Why must a Mule applications's deployable archive package all its dependencies in order to be deployed to Cloudhub?
+- [ ] **A:** Cloudhub workers CANNOT download ALL possible project dependencies a project may contain
+4. ![]()
+5. **Q**: What reserved property can be defined and used in a Mule application to allow an HTTPS Listener to be accessed by external web clients after the Mule application is deployed to CloudHub?
+- [ ] **A:** ${http.port}
+6. **Q**: A Mule application has 2 flows named parentFlow and childFlow. A variable is defined in parentFlow. What is the scope of the variable when the parentFlow calls childFlow using a Flow Reference:
+- [ ] **A:** The variable is accessible in childFlow, can be changed, and changes are seen back in parentFlow

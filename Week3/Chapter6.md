@@ -15,7 +15,8 @@
 - [ ] **A:** Atrributes are replaced with new attributes from the HTTP Request response(which might be NULL)
 2. **Q**: A Set Variable component saves the current payload to a variable with the name images. What is the DataWeave expression to access the images variable?
 - [ ] **A:** #[vars.images]
-3. **Q**: How many Mule applications can run on a CloudHub worker?
+3. **Q**: 
+![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week3/q3mule.png)
 - [ ] **A:** At most one
-4. **Q**: What does the Mule runtime use to enforce policies and limit access to APIs?
+5. **Q**: What does the Mule runtime use to enforce policies and limit access to APIs?
 - [ ] **A:** The Mule runtime's embedded API Gateway

@@ -1,4 +1,5 @@
-### Concepts
+### Chapter 4: Building APIs
+## Concepts
 - [ ] **Anypoint Studio**: used to build Mule applcations for integrations and API implentation
 - [ ] **Mule applications**: Accept and process events through a series of event proccesors plugged together in a flow
 - [ ] **Create RESTful interfaces for applications**
@@ -9,7 +10,7 @@
 
 ![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week2/Screenshot%202021-07-16%20133549.png)
 
-### Quizzes
+## Quizzes
 1. **Q**: How does APIkit determine the number of flows to generate from a RAML spec
 - [ ] **A:** Creates a sepatate flow for each HTTP method
 2. **Q**: A database connector is configured to select rows from a MySQL database. What is the format of the array of results returned from the database query?

@@ -27,17 +27,22 @@
 * By default, interfaces created with APIkit have error handlers with multiple on error propagate scopes that handle APIkit errors. 
 ## Quizzes
 1.
-![]
-- [ ] **A:** To find first true condition, then distribute the event to the one matched route
-2. **Q**: A Scatter-Gather processes 3 separate HTTP requests. Each request returns a Mule event with a JSON payload. What is the final output of the Scatter-Gather?
-- [ ] **A:** An object containing all three Mule event objects
+![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week4/q1_c10.png)
+- [ ] **A:** Error-main flow
+2.
+![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week4/q2_c10.png)
+- [ ] **A:** Validate - Payload is an Integer
 3. 
-![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week4/Screenshot%202021-07-16%20160748.png)
-- [ ] **A:** The flow stops processing its Mule event and returns an error message to the HTTP Listener operation
-4. **Q**: An event contains a payload that is an array of objects. How is the event routed in a Scatter-Gather?
-- [ ] **A:** The entire event is sent to each route and proccessed in parallel
-5. **Q**: What module and operation will throw an error if a mule event's payload is not a number?
-- [ ] **A:** Validation module's Is number operation
+![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week4/q3_c10.png)
+- [ ] **A:** GlobalErrorHandler
+4. **Q**: How can an error scope be configured to catch all errors in the HTTP namespace?
+- [ ] **A:** Type: "When: #[error.errorType.namespace == "HTTP"]"
+5.
+![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week4/q4_c10.png)
+- [ ] **A:** Error- main flow
+6.
+![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week4/q6_c10.png)
+- [ ] **A:** The MULE:EXPRESSION error's message
 
 
 

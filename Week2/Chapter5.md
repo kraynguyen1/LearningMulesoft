@@ -1,4 +1,4 @@
-### Deploying and Managing APIs
+### Chapter 5: Deploying and Managing APIs
 ## Concepts
 - [ ] **Cloudhub**: PaaS component of Anypoint platform which hosted Mule runtime(workers) on AWS
 - [ ] **API proxy**: Application that controls access to a web service, restricting access and usage through the use of an API gateway

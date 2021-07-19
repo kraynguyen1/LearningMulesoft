@@ -30,19 +30,14 @@
 1. A Mule application has a main flow and a combineNames flow. In the main flow, a variable named fullName is set to the object {firstName:"Max", lastname: "Mule"} What is valid DW code to call combineNames flow with the input object stored in the fullName variable
 - [ ] **A:** #[lookup("combineNames",vars.fullName)]
 2.
-![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week4/q2_c10.png)
-- [ ] **A:** Validate - Payload is an Integer
-3. 
-![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week4/q3_c10.png)
-- [ ] **A:** GlobalErrorHandler
-4. **Q**: How can an error scope be configured to catch all errors in the HTTP namespace?
-- [ ] **A:** Type: "When: #[error.errorType.namespace == "HTTP"]"
-5.
-![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week4/q4_c10.png)
-- [ ] **A:** Error- main flow
-6.
-![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week4/q6_c10.png)
-- [ ] **A:** The MULE:EXPRESSION error's message
+![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week5/Q1.png)
+- [ ] **A:** payload filter $.price < 500 orderBy $.price groupBy $.toAirport
+3. What DW 2.0 type can be used as input a map operation?
+- [ ] **A:** Array
+4. ![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week5/Q2.png)
+- [ ] **A:** ![](https://github.com/kraynguyen1/LearningMulesoft/blob/main/Week5/A2.png)
+5. What is the correct way to format the decima 20.3844 as a string to two decimal places
+- [ ] **A:** 20.3844 as String{format: ".0#"}
 
 
 
